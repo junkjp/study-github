@@ -1,2 +1,3 @@
 # study-github
-Github Basic Workflow Practice
+
+This is my first Github Basic Workflow Practice!
